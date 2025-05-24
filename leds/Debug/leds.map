@@ -1,0 +1,1258 @@
+Archive member included to satisfy reference by file (symbol)
+
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodhi4.o)
+                              Driver/pwm.o (__divmodhi4)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+                              C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega328p/avr5/crtatmega328p.o (exit)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+                              Application/genius.o (__tablejump2__)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+                              Driver/adc.o (__do_copy_data)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+                              Application/appl.o (__do_clear_bss)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_umulhisi3.o)
+                              System/keyboard.o (__umulhisi3)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodhi4.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodhi4.o) (__udivmodhi4)
+
+Allocating common symbols
+Common symbol       size              file
+
+geniusUpdateInputFlag
+                    0x1               Application/genius.o
+soundType           0x1               System/sound.o
+geniusActualColor   0x1               Application/genius.o
+geniusConclusion    0x1               Application/genius.o
+snakeFieldData      0x140             Application/snake.o
+ptSoundDataFirstAddress
+                    0x2               System/sound.o
+AD_Channel          0x1               Hal/halKeyboard.o
+SOUND_DATA_TIC_TAC_TOE
+                    0x1               Application/depuracao.o
+coordenadaY         0x2               Application/snake.o
+analogInput         0x2               System/keyboard.o
+ADC_Buffer          0xc               Driver/adc.o
+Adc_Step            0x1               Driver/adc.o
+timerTopValue       0x1               Hal/halSound.o
+tictactoeStatus     0x1               Application/tictactoe.o
+keyBuffer           0x1               System/keyboard.o
+snakeAppleFlag      0x1               Application/snake.o
+timerPrescaler      0x1               Hal/halSound.o
+inputCounter        0x1               System/keyboard.o
+analogPt            0x2               System/keyboard.o
+colunaAtual         0x1               Application/tictactoe.o
+snakeSize           0x1               Application/snake.o
+readVariation       0x2               System/keyboard.o
+geniusPt            0x2               Application/genius.o
+lastKey             0x1               Application/depuracao.o
+geniusStep          0x1               Application/genius.o
+geniusUserCounter   0x1               Application/genius.o
+snakeStep           0x1               Application/snake.o
+geniusVector        0x10              Application/genius.o
+soundStep           0x1               System/sound.o
+gameMode            0x1               Application/appl.o
+debugNote           0x1               Application/depuracao.o
+linhaAtual          0x1               Application/tictactoe.o
+jogadorAtual        0x1               Application/tictactoe.o
+geniusUserInputColor
+                    0x1               Application/genius.o
+AD_Sample           0xc               Hal/halKeyboard.o
+geniusNumberGenerated
+                    0x1               System/rng.o
+snakeInputMove      0x1               Application/snake.o
+Hal_Analog_Inputs   0xc               Hal/halKeyboard.o
+snakeConclusion     0x1               Application/snake.o
+debuggerType        0x1               Application/depuracao.o
+snakeSpeed          0x1               Application/snake.o
+AD_Mux_State        0x1               Hal/halKeyboard.o
+AD_Counter          0x6               Hal/halKeyboard.o
+snakeArryTail       0x2               Application/snake.o
+snakePrevMove       0x1               Application/snake.o
+ptMatrix            0x2               System/displayLed.o
+animationStep       0x1               System/displayLed.o
+gameEvaluation      0x1               Application/tictactoe.o
+geniusTurnCounter   0x1               Application/genius.o
+geniusCurrentTurn   0x1               Application/genius.o
+debugCount          0x1               Application/depuracao.o
+snakeCurrentMove    0x1               Application/snake.o
+desligarDisplay     0x1               Application/genius.o
+geniusKeyPressed    0x1               Application/genius.o
+tictactoeAnimation  0x1               System/displayLed.o
+coordenadaX         0x2               Application/snake.o
+snakePrevArryTail   0x2               Application/snake.o
+keyPressed          0x1               Application/appl.o
+debuggerStep        0x1               Application/depuracao.o
+inputKey            0x1               Application/depuracao.o
+updateFlag          0x1               System/displayLed.o
+snakeLastAddress    0x2               Application/snake.o
+ledMatrix           0xc0              System/displayLed.o
+snakeFirstAddress   0x2               Application/snake.o
+Sampling_Time       0x2               Driver/adc.o
+keyboardHandleState
+                    0x1               System/keyboard.o
+diplayCor           0x1               System/displayLed.o
+rngDataArray        0x6               System/rng.o
+snakeAppleAddress   0x2               Application/snake.o
+analogInputAccumulator
+                    0x2               System/keyboard.o
+analogInputArry     0xa               System/keyboard.o
+positionInput       0x1               Application/tictactoe.o
+variationAccumulator
+                    0x2               System/keyboard.o
+snakeArryHead       0x2               Application/snake.o
+turno               0x1               Application/tictactoe.o
+Slot                0x1               Application/main.o
+soundDataArry       0x4e              System/sound.o
+Adc_Channel         0x1               Driver/adc.o
+Ms_Timers           0x15              System/timer.o
+ongoingAnimation    0x1               System/displayLed.o
+AD_Accumulator      0xc               Hal/halKeyboard.o
+
+Discarded input sections
+
+ .data          0x00000000        0x0 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega328p/avr5/crtatmega328p.o
+ .bss           0x00000000        0x0 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega328p/avr5/crtatmega328p.o
+ .text          0x00000000        0x0 Application/appl.o
+ .data          0x00000000        0x0 Application/appl.o
+ .bss           0x00000000        0x0 Application/appl.o
+ .text          0x00000000        0x0 Application/depuracao.o
+ .data          0x00000000        0x0 Application/depuracao.o
+ .bss           0x00000000        0x0 Application/depuracao.o
+ .text          0x00000000        0x0 Application/genius.o
+ .data          0x00000000        0x0 Application/genius.o
+ .bss           0x00000000        0x0 Application/genius.o
+ .text          0x00000000        0x0 Application/main.o
+ .data          0x00000000        0x0 Application/main.o
+ .bss           0x00000000        0x0 Application/main.o
+ .text          0x00000000        0x0 Application/snake.o
+ .data          0x00000000        0x0 Application/snake.o
+ .bss           0x00000000        0x0 Application/snake.o
+ .text          0x00000000        0x0 Application/tictactoe.o
+ .data          0x00000000        0x0 Application/tictactoe.o
+ .bss           0x00000000        0x0 Application/tictactoe.o
+ .text          0x00000000        0x0 Driver/adc.o
+ .data          0x00000000        0x0 Driver/adc.o
+ .bss           0x00000000        0x0 Driver/adc.o
+ .rodata.ADC_BIT_CLR_MASK
+                0x00000000        0x6 Driver/adc.o
+ .text          0x00000000        0x0 Driver/gpio.o
+ .data          0x00000000        0x0 Driver/gpio.o
+ .bss           0x00000000        0x0 Driver/gpio.o
+ .text.gpioPinWrite
+                0x00000000       0x44 Driver/gpio.o
+ .text.gpioPinRead
+                0x00000000       0x2a Driver/gpio.o
+ .rodata.GPIO_PIN_CLR_MASK
+                0x00000000        0x8 Driver/gpio.o
+ .rodata.GPIO_PIN_SET_MASK
+                0x00000000        0x8 Driver/gpio.o
+ .text          0x00000000        0x0 Driver/pwm.o
+ .data          0x00000000        0x0 Driver/pwm.o
+ .bss           0x00000000        0x0 Driver/pwm.o
+ .text.pwmConfiguratePrescaler
+                0x00000000       0x24 Driver/pwm.o
+ .text.pwmConfigurateTopValue
+                0x00000000        0x8 Driver/pwm.o
+ .text.pwmConfigurateCompareValue
+                0x00000000        0x8 Driver/pwm.o
+ .text          0x00000000        0x0 Hal/halLeds.o
+ .data          0x00000000        0x0 Hal/halLeds.o
+ .bss           0x00000000        0x0 Hal/halLeds.o
+ .text          0x00000000        0x0 Hal/halKeyboard.o
+ .data          0x00000000        0x0 Hal/halKeyboard.o
+ .bss           0x00000000        0x0 Hal/halKeyboard.o
+ .text          0x00000000        0x0 Hal/halSound.o
+ .data          0x00000000        0x0 Hal/halSound.o
+ .bss           0x00000000        0x0 Hal/halSound.o
+ .text.halSetBuzzerNote
+                0x00000000       0x28 Hal/halSound.o
+ .text.halSetNote
+                0x00000000       0x18 Hal/halSound.o
+ .text          0x00000000        0x0 System/displayLed.o
+ .data          0x00000000        0x0 System/displayLed.o
+ .bss           0x00000000        0x0 System/displayLed.o
+ .text.clearHouse
+                0x00000000       0xea System/displayLed.o
+ .text.changeMatrix
+                0x00000000       0x14 System/displayLed.o
+ .text          0x00000000        0x0 System/keyboard.o
+ .data          0x00000000        0x0 System/keyboard.o
+ .bss           0x00000000        0x0 System/keyboard.o
+ .text          0x00000000        0x0 System/rng.o
+ .data          0x00000000        0x0 System/rng.o
+ .bss           0x00000000        0x0 System/rng.o
+ .text          0x00000000        0x0 System/sound.o
+ .data          0x00000000        0x0 System/sound.o
+ .bss           0x00000000        0x0 System/sound.o
+ .text.soundSetNote
+                0x00000000       0x16 System/sound.o
+ .text.soundClrNote
+                0x00000000        0xa System/sound.o
+ .text          0x00000000        0x0 System/timer.o
+ .data          0x00000000        0x0 System/timer.o
+ .bss           0x00000000        0x0 System/timer.o
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodhi4.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodhi4.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodhi4.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodhi4.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodhi4.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodhi4.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodhi4.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodhi4.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodhi4.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_umulhisi3.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_umulhisi3.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_umulhisi3.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_umulhisi3.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_umulhisi3.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_umulhisi3.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_umulhisi3.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_umulhisi3.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_umulhisi3.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodhi4.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodhi4.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodhi4.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodhi4.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+text             0x00000000         0x00008000         xr
+data             0x00800100         0x00000800         rw !x
+eeprom           0x00810000         0x00000400         rw !x
+fuse             0x00820000         0x00000003         rw !x
+lock             0x00830000         0x00000400         rw !x
+signature        0x00840000         0x00000400         rw !x
+user_signatures  0x00850000         0x00000400         rw !x
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+Address of section .data set to 0x800100
+LOAD C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega328p/avr5/crtatmega328p.o
+LOAD Application/appl.o
+LOAD Application/depuracao.o
+LOAD Application/genius.o
+LOAD Application/main.o
+LOAD Application/snake.o
+LOAD Application/tictactoe.o
+LOAD Driver/adc.o
+LOAD Driver/gpio.o
+LOAD Driver/pwm.o
+LOAD Hal/halLeds.o
+LOAD Hal/halKeyboard.o
+LOAD Hal/halSound.o
+LOAD System/displayLed.o
+LOAD System/keyboard.o
+LOAD System/rng.o
+LOAD System/sound.o
+LOAD System/timer.o
+START GROUP
+LOAD c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a
+END GROUP
+START GROUP
+LOAD c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a
+LOAD c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libm.a
+LOAD c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5\libc.a
+LOAD C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega328p/avr5\libatmega328p.a
+END GROUP
+                0x00000000                __TEXT_REGION_ORIGIN__ = DEFINED (__TEXT_REGION_ORIGIN__)?__TEXT_REGION_ORIGIN__:0x0
+                [0x00800100]                __DATA_REGION_ORIGIN__ = DEFINED (__DATA_REGION_ORIGIN__)?__DATA_REGION_ORIGIN__:0x800060
+                [0x00008000]                __TEXT_REGION_LENGTH__ = DEFINED (__TEXT_REGION_LENGTH__)?__TEXT_REGION_LENGTH__:0x20000
+                [0x00000800]                __DATA_REGION_LENGTH__ = DEFINED (__DATA_REGION_LENGTH__)?__DATA_REGION_LENGTH__:0xffa0
+                [0x00000400]                __EEPROM_REGION_LENGTH__ = DEFINED (__EEPROM_REGION_LENGTH__)?__EEPROM_REGION_LENGTH__:0x10000
+                [0x00000003]                __FUSE_REGION_LENGTH__ = DEFINED (__FUSE_REGION_LENGTH__)?__FUSE_REGION_LENGTH__:0x400
+                0x00000400                __LOCK_REGION_LENGTH__ = DEFINED (__LOCK_REGION_LENGTH__)?__LOCK_REGION_LENGTH__:0x400
+                0x00000400                __SIGNATURE_REGION_LENGTH__ = DEFINED (__SIGNATURE_REGION_LENGTH__)?__SIGNATURE_REGION_LENGTH__:0x400
+                0x00000400                __USER_SIGNATURE_REGION_LENGTH__ = DEFINED (__USER_SIGNATURE_REGION_LENGTH__)?__USER_SIGNATURE_REGION_LENGTH__:0x400
+
+.hash
+ *(.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+ *(.rel.text.*)
+ *(.rel.gnu.linkonce.t*)
+
+.rela.text
+ *(.rela.text)
+ *(.rela.text.*)
+ *(.rela.gnu.linkonce.t*)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+ *(.rel.rodata.*)
+ *(.rel.gnu.linkonce.r*)
+
+.rela.rodata
+ *(.rela.rodata)
+ *(.rela.rodata.*)
+ *(.rela.gnu.linkonce.r*)
+
+.rel.data
+ *(.rel.data)
+ *(.rel.data.*)
+ *(.rel.gnu.linkonce.d*)
+
+.rela.data
+ *(.rela.data)
+ *(.rela.data.*)
+ *(.rela.gnu.linkonce.d*)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.text           0x00000000     0x2206
+ *(.vectors)
+ .vectors       0x00000000       0x68 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega328p/avr5/crtatmega328p.o
+                0x00000000                __vector_default
+                0x00000000                __vectors
+ *(.vectors)
+ *(.progmem.gcc*)
+ .progmem.gcc_sw_table.geniusShowData
+                0x00000068       0x10 Application/genius.o
+ .progmem.gcc_sw_table.geniusHandler
+                0x00000078       0x24 Application/genius.o
+ .progmem.gcc_sw_table.tictactoeHandler
+                0x0000009c        0xe Application/tictactoe.o
+                0x000000aa                . = ALIGN (0x2)
+                0x000000aa                __trampolines_start = .
+ *(.trampolines)
+ .trampolines   0x000000aa        0x0 linker stubs
+ *(.trampolines*)
+                0x000000aa                __trampolines_end = .
+ *libprintf_flt.a:*(.progmem.data)
+ *libc.a:*(.progmem.data)
+ *(.progmem*)
+                0x000000aa                . = ALIGN (0x2)
+ *(.jumptables)
+ *(.jumptables*)
+ *(.lowtext)
+ *(.lowtext*)
+                0x000000aa                __ctors_start = .
+ *(.ctors)
+                0x000000aa                __ctors_end = .
+                0x000000aa                __dtors_start = .
+ *(.dtors)
+                0x000000aa                __dtors_end = .
+ SORT(*)(.ctors)
+ SORT(*)(.dtors)
+ *(.init0)
+ .init0         0x000000aa        0x0 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega328p/avr5/crtatmega328p.o
+                0x000000aa                __init
+ *(.init0)
+ *(.init1)
+ *(.init1)
+ *(.init2)
+ .init2         0x000000aa        0xc C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega328p/avr5/crtatmega328p.o
+ *(.init2)
+ *(.init3)
+ *(.init3)
+ *(.init4)
+ .init4         0x000000b6       0x16 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_copy_data.o)
+                0x000000b6                __do_copy_data
+ .init4         0x000000cc       0x10 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_clear_bss.o)
+                0x000000cc                __do_clear_bss
+ *(.init4)
+ *(.init5)
+ *(.init5)
+ *(.init6)
+ *(.init6)
+ *(.init7)
+ *(.init7)
+ *(.init8)
+ *(.init8)
+ *(.init9)
+ .init9         0x000000dc        0x8 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega328p/avr5/crtatmega328p.o
+ *(.init9)
+ *(.text)
+ .text          0x000000e4        0x4 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega328p/avr5/crtatmega328p.o
+                0x000000e4                __vector_22
+                0x000000e4                __vector_1
+                0x000000e4                __vector_24
+                0x000000e4                __vector_12
+                0x000000e4                __bad_interrupt
+                0x000000e4                __vector_6
+                0x000000e4                __vector_3
+                0x000000e4                __vector_23
+                0x000000e4                __vector_25
+                0x000000e4                __vector_11
+                0x000000e4                __vector_17
+                0x000000e4                __vector_19
+                0x000000e4                __vector_7
+                0x000000e4                __vector_5
+                0x000000e4                __vector_4
+                0x000000e4                __vector_9
+                0x000000e4                __vector_2
+                0x000000e4                __vector_21
+                0x000000e4                __vector_15
+                0x000000e4                __vector_8
+                0x000000e4                __vector_14
+                0x000000e4                __vector_10
+                0x000000e4                __vector_16
+                0x000000e4                __vector_18
+                0x000000e4                __vector_20
+                0x000000e8                . = ALIGN (0x2)
+ *(.text.*)
+ .text.applInitialize
+                0x000000e8        0xc Application/appl.o
+                0x000000e8                applInitialize
+ .text.resetGameMode
+                0x000000f4        0xc Application/appl.o
+                0x000000f4                resetGameMode
+ .text.gameSelect
+                0x00000100       0x4a Application/appl.o
+                0x00000100                gameSelect
+ .text.applHander
+                0x0000014a       0x48 Application/appl.o
+                0x0000014a                applHander
+ .text.debuggerInitialize
+                0x00000192       0x18 Application/depuracao.o
+                0x00000192                debuggerInitialize
+ .text.debuggerHandler
+                0x000001aa       0x68 Application/depuracao.o
+                0x000001aa                debuggerHandler
+ .text.geniusInitialize
+                0x00000212        0xa Application/genius.o
+                0x00000212                geniusInitialize
+ .text.geniusShowData
+                0x0000021c       0xe6 Application/genius.o
+                0x0000021c                geniusShowData
+ .text.clearGeniusVector
+                0x00000302       0x34 Application/genius.o
+                0x00000302                clearGeniusVector
+ .text.geniusHandler
+                0x00000336      0x326 Application/genius.o
+                0x00000336                geniusHandler
+ .text.main     0x0000065c       0xd4 Application/main.o
+                0x0000065c                main
+ .text.snakeInitialize
+                0x00000730       0x4a Application/snake.o
+                0x00000730                snakeInitialize
+ .text.snakeClearCache
+                0x0000077a       0x22 Application/snake.o
+                0x0000077a                snakeClearCache
+ .text.snakeInitialCondition
+                0x0000079c       0x58 Application/snake.o
+                0x0000079c                snakeInitialCondition
+ .text.snakePlaceApple
+                0x000007f4       0x54 Application/snake.o
+                0x000007f4                snakePlaceApple
+ .text.snakeKeyInterpreter
+                0x00000848       0x2a Application/snake.o
+                0x00000848                snakeKeyInterpreter
+ .text.snakeNextMove
+                0x00000872      0x1a8 Application/snake.o
+                0x00000872                snakeNextMove
+ .text.snakeDisplayUpdate
+                0x00000a1a       0xf6 Application/snake.o
+                0x00000a1a                snakeDisplayUpdate
+ .text.snakeEnd
+                0x00000b10       0x58 Application/snake.o
+                0x00000b10                snakeEnd
+ .text.snakeHandler
+                0x00000b68      0x1e4 Application/snake.o
+                0x00000b68                snakeHandler
+ .text.tictactoeInitialize
+                0x00000d4c       0x10 Application/tictactoe.o
+                0x00000d4c                tictactoeInitialize
+ .text.tictactoeGenerateMash
+                0x00000d5c       0x70 Application/tictactoe.o
+                0x00000d5c                tictactoeGenerateMash
+ .text.tictactoeEvaluate
+                0x00000dcc      0x14c Application/tictactoe.o
+                0x00000dcc                tictactoeEvaluate
+ .text.getPosition
+                0x00000f18       0x36 Application/tictactoe.o
+                0x00000f18                getPosition
+ .text.tictactoeHandler
+                0x00000f4e      0x166 Application/tictactoe.o
+                0x00000f4e                tictactoeHandler
+ .text.ADC__Initialize
+                0x000010b4       0x50 Driver/adc.o
+                0x000010b4                ADC__Initialize
+ .text.ADC__Handler
+                0x00001104       0xf0 Driver/adc.o
+                0x00001104                ADC__Handler
+ .text.ADC__ConfigModes
+                0x000011f4       0x54 Driver/adc.o
+                0x000011f4                ADC__ConfigModes
+ .text.ADC__GetValue
+                0x00001248       0x1c Driver/adc.o
+                0x00001248                ADC__GetValue
+ .text.gpioPinConfig
+                0x00001264       0x54 Driver/gpio.o
+                0x00001264                gpioPinConfig
+ .text.Pwm__SetTCFrequency
+                0x000012b8       0x84 Driver/pwm.o
+                0x000012b8                Pwm__SetTCFrequency
+ .text.Pwm__SetDutyCycle
+                0x0000133c       0xa2 Driver/pwm.o
+                0x0000133c                Pwm__SetDutyCycle
+ .text.Pwm__Initialize
+                0x000013de       0x38 Driver/pwm.o
+                0x000013de                Pwm__Initialize
+ .text.halLedInitialize
+                0x00001416        0xc Hal/halLeds.o
+                0x00001416                halLedInitialize
+ .text.sendZero
+                0x00001422       0x20 Hal/halLeds.o
+                0x00001422                sendZero
+ .text.sendOne  0x00001442       0x1e Hal/halLeds.o
+                0x00001442                sendOne
+ .text.sendDataToDisplay
+                0x00001460       0x5a Hal/halLeds.o
+                0x00001460                sendDataToDisplay
+ .text.halKeyBoardInitialize
+                0x000014ba       0x50 Hal/halKeyboard.o
+                0x000014ba                halKeyBoardInitialize
+ .text.ADProcess
+                0x0000150a       0xe0 Hal/halKeyboard.o
+                0x0000150a                ADProcess
+ .text.halKeyboardBackgroundHandler
+                0x000015ea        0x6 Hal/halKeyboard.o
+                0x000015ea                halKeyboardBackgroundHandler
+ .text.Hal_GetAnalogInput
+                0x000015f0       0x1c Hal/halKeyboard.o
+                0x000015f0                Hal_GetAnalogInput
+ .text.Hal__SetBuzzer
+                0x0000160c       0x18 Hal/halSound.o
+                0x0000160c                Hal__SetBuzzer
+ .text.halSetBuzzerFreq
+                0x00001624        0xa Hal/halSound.o
+                0x00001624                halSetBuzzerFreq
+ .text.halSoundInitialize
+                0x0000162e       0x1e Hal/halSound.o
+                0x0000162e                halSoundInitialize
+ .text.displayGetAnimationStatus
+                0x0000164c       0x10 System/displayLed.o
+                0x0000164c                displayGetAnimationStatus
+ .text.displaySetAnimation
+                0x0000165c       0x2c System/displayLed.o
+                0x0000165c                displaySetAnimation
+ .text.displayBackgroundHandler
+                0x00001688       0x16 System/displayLed.o
+                0x00001688                displayBackgroundHandler
+ .text.getTictactoePositionValue
+                0x0000169e       0x4c System/displayLed.o
+                0x0000169e                getTictactoePositionValue
+ .text.changeIndividual
+                0x000016ea       0x46 System/displayLed.o
+                0x000016ea                changeIndividual
+ .text.changeHouse
+                0x00001730       0xd8 System/displayLed.o
+                0x00001730                changeHouse
+ .text.setAll   0x00001808       0x3c System/displayLed.o
+                0x00001808                setAll
+ .text.setDisplay
+                0x00001844        0x6 System/displayLed.o
+                0x00001844                setDisplay
+ .text.clearAll
+                0x0000184a       0x3a System/displayLed.o
+                0x0000184a                clearAll
+ .text.ledInitialize
+                0x00001884        0xe System/displayLed.o
+                0x00001884                ledInitialize
+ .text.clearDisplay
+                0x00001892        0x6 System/displayLed.o
+                0x00001892                clearDisplay
+ .text.displayAnimation
+                0x00001898       0xb6 System/displayLed.o
+                0x00001898                displayAnimation
+ .text.displayHandler
+                0x0000194e        0xc System/displayLed.o
+                0x0000194e                displayHandler
+ .text.keyboardInitialize
+                0x0000195a       0x50 System/keyboard.o
+                0x0000195a                keyboardInitialize
+ .text.getKeyBuffer
+                0x000019aa        0x6 System/keyboard.o
+                0x000019aa                getKeyBuffer
+ .text.positionProcess
+                0x000019b0      0x200 System/keyboard.o
+                0x000019b0                positionProcess
+ .text.keyboardHander
+                0x00001bb0        0x6 System/keyboard.o
+                0x00001bb0                keyboardHander
+ .text.rngInit  0x00001bb6       0x1a System/rng.o
+                0x00001bb6                rngInit
+ .text.rngHandler
+                0x00001bd0       0x40 System/rng.o
+                0x00001bd0                rngHandler
+ .text.getRandomNumber
+                0x00001c10       0x10 System/rng.o
+                0x00001c10                getRandomNumber
+ .text.soundInitialize
+                0x00001c20       0x9a System/sound.o
+                0x00001c20                soundInitialize
+ .text.soundGetSoundStatus
+                0x00001cba       0x10 System/sound.o
+                0x00001cba                soundGetSoundStatus
+ .text.setSound
+                0x00001cca        0xc System/sound.o
+                0x00001cca                setSound
+ .text.soundKeyPressPlayer1
+                0x00001cd6       0x56 System/sound.o
+                0x00001cd6                soundKeyPressPlayer1
+ .text.soundKeyPressPlayer2
+                0x00001d2c       0x56 System/sound.o
+                0x00001d2c                soundKeyPressPlayer2
+ .text.soundPlayer1Win
+                0x00001d82       0xe0 System/sound.o
+                0x00001d82                soundPlayer1Win
+ .text.soundPlayer2Win
+                0x00001e62       0xe0 System/sound.o
+                0x00001e62                soundPlayer2Win
+ .text.soundGameDraw
+                0x00001f42       0xe0 System/sound.o
+                0x00001f42                soundGameDraw
+ .text.soundHandler
+                0x00002022       0x3c System/sound.o
+                0x00002022                soundHandler
+ .text.Timer__Initialize
+                0x0000205e       0x24 System/timer.o
+                0x0000205e                Timer__Initialize
+ .text.Timer__MsHandler
+                0x00002082       0x64 System/timer.o
+                0x00002082                Timer__MsHandler
+ .text.Timer__MsSet
+                0x000020e6       0x3c System/timer.o
+                0x000020e6                Timer__MsSet
+ .text.Timer__MsExpire
+                0x00002122       0x1e System/timer.o
+                0x00002122                Timer__MsExpire
+ .text.Timer__MsGetStatus
+                0x00002140       0x16 System/timer.o
+                0x00002140                Timer__MsGetStatus
+ .text.__vector_13
+                0x00002156       0x32 System/timer.o
+                0x00002156                __vector_13
+ .text.libgcc.div
+                0x00002188       0x28 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_divmodhi4.o)
+                0x00002188                _div
+                0x00002188                __divmodhi4
+ .text.libgcc   0x000021b0        0xc c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_tablejump2.o)
+                0x000021b0                __tablejump2__
+ .text.libgcc.mul
+                0x000021bc       0x1e c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_umulhisi3.o)
+                0x000021bc                __umulhisi3
+ .text.libgcc.div
+                0x000021da       0x28 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_udivmodhi4.o)
+                0x000021da                __udivmodhi4
+                0x00002202                . = ALIGN (0x2)
+ *(.fini9)
+ .fini9         0x00002202        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+                0x00002202                _exit
+                0x00002202                exit
+ *(.fini9)
+ *(.fini8)
+ *(.fini8)
+ *(.fini7)
+ *(.fini7)
+ *(.fini6)
+ *(.fini6)
+ *(.fini5)
+ *(.fini5)
+ *(.fini4)
+ *(.fini4)
+ *(.fini3)
+ *(.fini3)
+ *(.fini2)
+ *(.fini2)
+ *(.fini1)
+ *(.fini1)
+ *(.fini0)
+ .fini0         0x00002202        0x4 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avr5\libgcc.a(_exit.o)
+ *(.fini0)
+                0x00002206                _etext = .
+
+.data           0x00800100       0x68 load address 0x00002206
+                0x00800100                PROVIDE (__data_start, .)
+ *(.data)
+ *(.data*)
+ .data.GPIO_DATA_LIST
+                0x00800100        0x6 Driver/gpio.o
+                0x00800100                GPIO_DATA_LIST
+ .data.rngMinValueArray
+                0x00800106        0x3 System/rng.o
+                0x00800106                rngMinValueArray
+ .data.rngMaxValueArray
+                0x00800109        0x3 System/rng.o
+                0x00800109                rngMaxValueArray
+ *(.gnu.linkonce.d*)
+ *(.rodata)
+ .rodata        0x0080010c       0x34 System/sound.o
+ *(.rodata*)
+ .rodata.ADC_BIT_SET_MASK
+                0x00800140        0x6 Driver/adc.o
+                0x00800140                ADC_BIT_SET_MASK
+ .rodata.Adc_Enable_Table
+                0x00800146        0x6 Driver/adc.o
+                0x00800146                Adc_Enable_Table
+ .rodata.gpioPinClrMask
+                0x0080014c        0x8 Driver/gpio.o
+                0x0080014c                gpioPinClrMask
+ .rodata.gpioPinSetMask
+                0x00800154        0x8 Driver/gpio.o
+                0x00800154                gpioPinSetMask
+ .rodata.AD_Channel_Table
+                0x0080015c        0x6 Hal/halKeyboard.o
+                0x0080015c                AD_Channel_Table
+ .rodata.AD_Enable_Table
+                0x00800162        0x6 Hal/halKeyboard.o
+                0x00800162                AD_Enable_Table
+ *(.gnu.linkonce.r*)
+                0x00800168                . = ALIGN (0x2)
+                0x00800168                _edata = .
+                0x00800168                PROVIDE (__data_end, .)
+
+.bss            0x00800168      0x310
+                0x00800168                PROVIDE (__bss_start, .)
+ *(.bss)
+ *(.bss*)
+ .bss.flag_mili_seg
+                0x00800168        0x1 System/timer.o
+                0x00800168                flag_mili_seg
+ *(COMMON)
+ COMMON         0x00800169        0x2 Application/appl.o
+                0x00800169                gameMode
+                0x0080016a                keyPressed
+ COMMON         0x0080016b        0x7 Application/depuracao.o
+                0x0080016b                SOUND_DATA_TIC_TAC_TOE
+                0x0080016c                lastKey
+                0x0080016d                debugNote
+                0x0080016e                debuggerType
+                0x0080016f                debugCount
+                0x00800170                debuggerStep
+                0x00800171                inputKey
+ COMMON         0x00800172       0x1c Application/genius.o
+                0x00800172                geniusUpdateInputFlag
+                0x00800173                geniusActualColor
+                0x00800174                geniusConclusion
+                0x00800175                geniusPt
+                0x00800177                geniusStep
+                0x00800178                geniusUserCounter
+                0x00800179                geniusVector
+                0x00800189                geniusUserInputColor
+                0x0080018a                geniusTurnCounter
+                0x0080018b                geniusCurrentTurn
+                0x0080018c                desligarDisplay
+                0x0080018d                geniusKeyPressed
+ COMMON         0x0080018e        0x1 Application/main.o
+                0x0080018e                Slot
+ COMMON         0x0080018f      0x158 Application/snake.o
+                0x0080018f                snakeFieldData
+                0x008002cf                coordenadaY
+                0x008002d1                snakeAppleFlag
+                0x008002d2                snakeSize
+                0x008002d3                snakeStep
+                0x008002d4                snakeInputMove
+                0x008002d5                snakeConclusion
+                0x008002d6                snakeSpeed
+                0x008002d7                snakeArryTail
+                0x008002d9                snakePrevMove
+                0x008002da                snakeCurrentMove
+                0x008002db                coordenadaX
+                0x008002dd                snakePrevArryTail
+                0x008002df                snakeLastAddress
+                0x008002e1                snakeFirstAddress
+                0x008002e3                snakeAppleAddress
+                0x008002e5                snakeArryHead
+ COMMON         0x008002e7        0x7 Application/tictactoe.o
+                0x008002e7                tictactoeStatus
+                0x008002e8                colunaAtual
+                0x008002e9                linhaAtual
+                0x008002ea                jogadorAtual
+                0x008002eb                gameEvaluation
+                0x008002ec                positionInput
+                0x008002ed                turno
+ COMMON         0x008002ee       0x10 Driver/adc.o
+                0x008002ee                ADC_Buffer
+                0x008002fa                Adc_Step
+                0x008002fb                Sampling_Time
+                0x008002fd                Adc_Channel
+ COMMON         0x008002fe       0x2c Hal/halKeyboard.o
+                0x008002fe                AD_Channel
+                0x008002ff                AD_Sample
+                0x0080030b                Hal_Analog_Inputs
+                0x00800317                AD_Mux_State
+                0x00800318                AD_Counter
+                0x0080031e                AD_Accumulator
+ COMMON         0x0080032a        0x2 Hal/halSound.o
+                0x0080032a                timerTopValue
+                0x0080032b                timerPrescaler
+ COMMON         0x0080032c       0xc7 System/displayLed.o
+                0x0080032c                ptMatrix
+                0x0080032e                animationStep
+                0x0080032f                tictactoeAnimation
+                0x00800330                updateFlag
+                0x00800331                ledMatrix
+                0x008003f1                diplayCor
+                0x008003f2                ongoingAnimation
+ COMMON         0x008003f3       0x17 System/keyboard.o
+                0x008003f3                analogInput
+                0x008003f5                keyBuffer
+                0x008003f6                inputCounter
+                0x008003f7                analogPt
+                0x008003f9                readVariation
+                0x008003fb                keyboardHandleState
+                0x008003fc                analogInputAccumulator
+                0x008003fe                analogInputArry
+                0x00800408                variationAccumulator
+ COMMON         0x0080040a        0x7 System/rng.o
+                0x0080040a                geniusNumberGenerated
+                0x0080040b                rngDataArray
+ COMMON         0x00800411       0x52 System/sound.o
+                0x00800411                soundType
+                0x00800412                ptSoundDataFirstAddress
+                0x00800414                soundStep
+                0x00800415                soundDataArry
+ COMMON         0x00800463       0x15 System/timer.o
+                0x00800463                Ms_Timers
+                0x00800478                PROVIDE (__bss_end, .)
+                0x00002206                __data_load_start = LOADADDR (.data)
+                0x0000226e                __data_load_end = (__data_load_start + SIZEOF (.data))
+
+.noinit         0x00800478        0x0
+                [!provide]                PROVIDE (__noinit_start, .)
+ *(.noinit*)
+                [!provide]                PROVIDE (__noinit_end, .)
+                0x00800478                _end = .
+                [!provide]                PROVIDE (__heap_start, .)
+
+.eeprom         0x00810000        0x0
+ *(.eeprom*)
+                0x00810000                __eeprom_end = .
+
+.fuse
+ *(.fuse)
+ *(.lfuse)
+ *(.hfuse)
+ *(.efuse)
+
+.lock
+ *(.lock*)
+
+.signature
+ *(.signature*)
+
+.user_signatures
+ *(.user_signatures*)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x00000000       0x30
+ *(.comment)
+ .comment       0x00000000       0x30 Application/appl.o
+                                 0x31 (size before relaxing)
+ .comment       0x00000030       0x31 Application/depuracao.o
+ .comment       0x00000030       0x31 Application/genius.o
+ .comment       0x00000030       0x31 Application/main.o
+ .comment       0x00000030       0x31 Application/snake.o
+ .comment       0x00000030       0x31 Application/tictactoe.o
+ .comment       0x00000030       0x31 Driver/adc.o
+ .comment       0x00000030       0x31 Driver/gpio.o
+ .comment       0x00000030       0x31 Driver/pwm.o
+ .comment       0x00000030       0x31 Hal/halLeds.o
+ .comment       0x00000030       0x31 Hal/halKeyboard.o
+ .comment       0x00000030       0x31 Hal/halSound.o
+ .comment       0x00000030       0x31 System/displayLed.o
+ .comment       0x00000030       0x31 System/keyboard.o
+ .comment       0x00000030       0x31 System/rng.o
+ .comment       0x00000030       0x31 System/sound.o
+ .comment       0x00000030       0x31 System/timer.o
+
+.note.gnu.avr.deviceinfo
+                0x00000000       0x40
+ .note.gnu.avr.deviceinfo
+                0x00000000       0x40 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega328p/avr5/crtatmega328p.o
+
+.note.gnu.build-id
+ *(.note.gnu.build-id)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x00000000      0x468
+ *(.debug_aranges)
+ .debug_aranges
+                0x00000000       0x38 Application/appl.o
+ .debug_aranges
+                0x00000038       0x28 Application/depuracao.o
+ .debug_aranges
+                0x00000060       0x38 Application/genius.o
+ .debug_aranges
+                0x00000098       0x20 Application/main.o
+ .debug_aranges
+                0x000000b8       0x60 Application/snake.o
+ .debug_aranges
+                0x00000118       0x40 Application/tictactoe.o
+ .debug_aranges
+                0x00000158       0x38 Driver/adc.o
+ .debug_aranges
+                0x00000190       0x30 Driver/gpio.o
+ .debug_aranges
+                0x000001c0       0x48 Driver/pwm.o
+ .debug_aranges
+                0x00000208       0x38 Hal/halLeds.o
+ .debug_aranges
+                0x00000240       0x38 Hal/halKeyboard.o
+ .debug_aranges
+                0x00000278       0x40 Hal/halSound.o
+ .debug_aranges
+                0x000002b8       0x90 System/displayLed.o
+ .debug_aranges
+                0x00000348       0x38 System/keyboard.o
+ .debug_aranges
+                0x00000380       0x30 System/rng.o
+ .debug_aranges
+                0x000003b0       0x70 System/sound.o
+ .debug_aranges
+                0x00000420       0x48 System/timer.o
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x00000000     0x582f
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x00000000      0x5f4 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega328p/avr5/crtatmega328p.o
+ .debug_info    0x000005f4      0x23d Application/appl.o
+ .debug_info    0x00000831      0x3fd Application/depuracao.o
+ .debug_info    0x00000c2e      0x87a Application/genius.o
+ .debug_info    0x000014a8      0x330 Application/main.o
+ .debug_info    0x000017d8      0xa4c Application/snake.o
+ .debug_info    0x00002224      0x709 Application/tictactoe.o
+ .debug_info    0x0000292d      0x4e9 Driver/adc.o
+ .debug_info    0x00002e16      0x380 Driver/gpio.o
+ .debug_info    0x00003196      0x653 Driver/pwm.o
+ .debug_info    0x000037e9      0x1ad Hal/halLeds.o
+ .debug_info    0x00003996      0x323 Hal/halKeyboard.o
+ .debug_info    0x00003cb9      0x3b1 Hal/halSound.o
+ .debug_info    0x0000406a      0x681 System/displayLed.o
+ .debug_info    0x000046eb      0x307 System/keyboard.o
+ .debug_info    0x000049f2      0x1c4 System/rng.o
+ .debug_info    0x00004bb6      0xa28 System/sound.o
+ .debug_info    0x000055de      0x251 System/timer.o
+
+.debug_abbrev   0x00000000     0x1b31
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000      0x5a2 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega328p/avr5/crtatmega328p.o
+ .debug_abbrev  0x000005a2       0xca Application/appl.o
+ .debug_abbrev  0x0000066c      0x197 Application/depuracao.o
+ .debug_abbrev  0x00000803      0x176 Application/genius.o
+ .debug_abbrev  0x00000979       0xcc Application/main.o
+ .debug_abbrev  0x00000a45      0x19c Application/snake.o
+ .debug_abbrev  0x00000be1      0x155 Application/tictactoe.o
+ .debug_abbrev  0x00000d36      0x155 Driver/adc.o
+ .debug_abbrev  0x00000e8b      0x164 Driver/gpio.o
+ .debug_abbrev  0x00000fef      0x160 Driver/pwm.o
+ .debug_abbrev  0x0000114f      0x117 Hal/halLeds.o
+ .debug_abbrev  0x00001266      0x12a Hal/halKeyboard.o
+ .debug_abbrev  0x00001390      0x13f Hal/halSound.o
+ .debug_abbrev  0x000014cf      0x180 System/displayLed.o
+ .debug_abbrev  0x0000164f      0x13e System/keyboard.o
+ .debug_abbrev  0x0000178d       0xed System/rng.o
+ .debug_abbrev  0x0000187a      0x19d System/sound.o
+ .debug_abbrev  0x00001a17      0x11a System/timer.o
+
+.debug_line     0x00000000     0x2d53
+ *(.debug_line .debug_line.* .debug_line_end)
+ .debug_line    0x00000000      0x134 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega328p/avr5/crtatmega328p.o
+ .debug_line    0x00000134      0x189 Application/appl.o
+ .debug_line    0x000002bd      0x228 Application/depuracao.o
+ .debug_line    0x000004e5      0x496 Application/genius.o
+ .debug_line    0x0000097b      0x216 Application/main.o
+ .debug_line    0x00000b91      0x607 Application/snake.o
+ .debug_line    0x00001198      0x3de Application/tictactoe.o
+ .debug_line    0x00001576      0x211 Driver/adc.o
+ .debug_line    0x00001787      0x113 Driver/gpio.o
+ .debug_line    0x0000189a      0x292 Driver/pwm.o
+ .debug_line    0x00001b2c      0x1d3 Hal/halLeds.o
+ .debug_line    0x00001cff      0x18d Hal/halKeyboard.o
+ .debug_line    0x00001e8c      0x178 Hal/halSound.o
+ .debug_line    0x00002004      0x381 System/displayLed.o
+ .debug_line    0x00002385      0x22d System/keyboard.o
+ .debug_line    0x000025b2       0xf2 System/rng.o
+ .debug_line    0x000026a4      0x4dd System/sound.o
+ .debug_line    0x00002b81      0x1d2 System/timer.o
+
+.debug_frame    0x00000000      0x7fc
+ *(.debug_frame)
+ .debug_frame   0x00000000       0x54 Application/appl.o
+ .debug_frame   0x00000054       0x48 Application/depuracao.o
+ .debug_frame   0x0000009c       0x68 Application/genius.o
+ .debug_frame   0x00000104       0x24 Application/main.o
+ .debug_frame   0x00000128       0xd0 Application/snake.o
+ .debug_frame   0x000001f8       0x6c Application/tictactoe.o
+ .debug_frame   0x00000264       0x54 Driver/adc.o
+ .debug_frame   0x000002b8       0x44 Driver/gpio.o
+ .debug_frame   0x000002fc       0x74 Driver/pwm.o
+ .debug_frame   0x00000370       0x68 Hal/halLeds.o
+ .debug_frame   0x000003d8       0x60 Hal/halKeyboard.o
+ .debug_frame   0x00000438       0x70 Hal/halSound.o
+ .debug_frame   0x000004a8      0x154 System/displayLed.o
+ .debug_frame   0x000005fc       0x60 System/keyboard.o
+ .debug_frame   0x0000065c       0x44 System/rng.o
+ .debug_frame   0x000006a0       0xd4 System/sound.o
+ .debug_frame   0x00000774       0x88 System/timer.o
+
+.debug_str      0x00000000     0x216d
+ *(.debug_str)
+ .debug_str     0x00000000      0x208 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.7.374/gcc/dev/atmega328p/avr5/crtatmega328p.o
+ .debug_str     0x00000208      0x258 Application/appl.o
+                                0x2b9 (size before relaxing)
+ .debug_str     0x00000460      0x215 Application/depuracao.o
+                                0x3f5 (size before relaxing)
+ .debug_str     0x00000675      0x493 Application/genius.o
+                                0x677 (size before relaxing)
+ .debug_str     0x00000b08      0x1b7 Application/main.o
+                                0x383 (size before relaxing)
+ .debug_str     0x00000cbf      0x3c7 Application/snake.o
+                                0x71a (size before relaxing)
+ .debug_str     0x00001086      0x2a2 Application/tictactoe.o
+                                0x60c (size before relaxing)
+ .debug_str     0x00001328      0x2e6 Driver/adc.o
+                                0x459 (size before relaxing)
+ .debug_str     0x0000160e      0x146 Driver/gpio.o
+                                0x2e6 (size before relaxing)
+ .debug_str     0x00001754      0x262 Driver/pwm.o
+                                0x491 (size before relaxing)
+ .debug_str     0x000019b6       0x3c Hal/halLeds.o
+                                0x21d (size before relaxing)
+ .debug_str     0x000019f2      0x185 Hal/halKeyboard.o
+                                0x3e1 (size before relaxing)
+ .debug_str     0x00001b77       0xa1 Hal/halSound.o
+                                0x386 (size before relaxing)
+ .debug_str     0x00001c18      0x1ec System/displayLed.o
+                                0x4ba (size before relaxing)
+ .debug_str     0x00001e04      0x11c System/keyboard.o
+                                0x3df (size before relaxing)
+ .debug_str     0x00001f20       0x7d System/rng.o
+                                0x21f (size before relaxing)
+ .debug_str     0x00001f9d      0x164 System/sound.o
+                                0x4fd (size before relaxing)
+ .debug_str     0x00002101       0x6c System/timer.o
+                                0x2c7 (size before relaxing)
+
+.debug_loc      0x00000000     0x1327
+ *(.debug_loc)
+ .debug_loc     0x00000000      0x107 Application/depuracao.o
+ .debug_loc     0x00000107      0x194 Application/genius.o
+ .debug_loc     0x0000029b      0x358 Application/snake.o
+ .debug_loc     0x000005f3       0x7b Application/tictactoe.o
+ .debug_loc     0x0000066e      0x114 Driver/adc.o
+ .debug_loc     0x00000782      0x149 Driver/gpio.o
+ .debug_loc     0x000008cb      0x1f1 Driver/pwm.o
+ .debug_loc     0x00000abc       0xaf Hal/halLeds.o
+ .debug_loc     0x00000b6b       0x9e Hal/halKeyboard.o
+ .debug_loc     0x00000c09      0x123 Hal/halSound.o
+ .debug_loc     0x00000d2c      0x34b System/displayLed.o
+ .debug_loc     0x00001077       0x56 System/keyboard.o
+ .debug_loc     0x000010cd       0x5f System/rng.o
+ .debug_loc     0x0000112c       0xe0 System/sound.o
+ .debug_loc     0x0000120c      0x11b System/timer.o
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges   0x00000000      0x3e8
+ *(.debug_ranges)
+ .debug_ranges  0x00000000       0x28 Application/appl.o
+ .debug_ranges  0x00000028       0x78 Application/depuracao.o
+ .debug_ranges  0x000000a0       0x28 Application/genius.o
+ .debug_ranges  0x000000c8       0x10 Application/main.o
+ .debug_ranges  0x000000d8       0x50 Application/snake.o
+ .debug_ranges  0x00000128       0x30 Application/tictactoe.o
+ .debug_ranges  0x00000158       0x28 Driver/adc.o
+ .debug_ranges  0x00000180       0x20 Driver/gpio.o
+ .debug_ranges  0x000001a0       0x38 Driver/pwm.o
+ .debug_ranges  0x000001d8       0x40 Hal/halLeds.o
+ .debug_ranges  0x00000218       0x28 Hal/halKeyboard.o
+ .debug_ranges  0x00000240       0x30 Hal/halSound.o
+ .debug_ranges  0x00000270       0x80 System/displayLed.o
+ .debug_ranges  0x000002f0       0x28 System/keyboard.o
+ .debug_ranges  0x00000318       0x20 System/rng.o
+ .debug_ranges  0x00000338       0x78 System/sound.o
+ .debug_ranges  0x000003b0       0x38 System/timer.o
+
+.debug_macro
+ *(.debug_macro)
+OUTPUT(leds.elf elf32-avr)
+LOAD linker stubs
